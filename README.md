@@ -4,9 +4,9 @@ Singletok is a simple, mobile-friendly web project that displays a scrollable li
 
 ## Preview
 Preview Here:
-[nataliemarleny.github.io/SingleTok/](nataliemarleny.github.io/SingleTok/)
+[https://nataliemarleny.github.io/SingleTok/](https://nataliemarleny.github.io/SingleTok/)
 
-![SingleTok Preview](/SingleTok.gif)
+![SingleTok Application](/SingleTok.gif)
 
 ## Demo
 To see the project in action, open `index.html` in a browser.
